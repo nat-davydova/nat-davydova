@@ -17,10 +17,14 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## 💻 My Interfaces Projects
+## 💻 My UI/UX Projects
+### (TS/JS/HTML/CSS)
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
+| [Password Strength Validator UI](https://github.com/nat-davydova/password-strength) | [Live Demo](https://codepen.io/nat-davydova/full/yLyXogO) | Bootstrap-compatible password strength validation UI/UX. The purpose of the project is to demonstrate how smooth and slick such an effect can be. |
+| [Multi Step Form with animations](https://github.com/nat-davydova/multisteps-form) | [Live Demo](https://codepen.io/nat-davydova/full/PoYXZxg) | Bootstrap-compatible multi-step form where users can choose from 1 of 5 predefined, hand-built step reveal animations. Fully responsive. |
+| [Submit buttons inspiration](https://github.com/nat-davydova/submit-buttons) | [Live Demo](https://codepen.io/nat-davydova/full/pozRMrx) | A CSS3/JS animations experiment: an appealing submit button concept. When users click on them, they will first see a loading animation, followed by a successful submission animation. |
 | [Timeline Inspiration](https://github.com/nat-davydova/timeline) | [Live Demo](https://codepen.io/nat-davydova/full/xxKOdvv) | Material UI-compatible timeline inspiration. Can be useful to present a schedule of different events. Users can set the position for each timeline item. Additionally, there is an intricate gradient effect. Fully responsive. |
 | [Tabs Navigation UI](https://github.com/nat-davydova/tab-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/PMJJRM) | Material UI-compatible tabs animation: animates both tab pill changes and tab content changes. |
 | [Gradient Navigation Tiles](https://github.com/nat-davydova/gradient-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/mNOMBV) | Navigation Inspiration with separate tiles sharing a single gradient image. Users can set their own gradient image and direction. The gradient will be recalculated based on the number of navigation tiles present. Fully responsive. |
