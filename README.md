@@ -22,7 +22,7 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 | Article | Description |
 | -- | -- |
 | [Hand-built smoothScrollTo() Implementation (Eng)](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383) | This article is a summary of my implementation of a vanilla JS alternative to the browser's `scroll-behavior: smooth` feature, along with a step-by-step tutorial on one of the possible implementation variants. |
-| [Function Overloadings in Typescript (RU)](https://medium.com/@natti.davydova/%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-typescript-74c0968cae51) | This article was born from experiments with function overloading in TypeScript. After an introduction about what overloading is in general, I want to talk about the curious nuances I encountered, and how these nuances have changed my understanding of working with overloads |
+| [Function Overloadings in Typescript (Ru)](https://medium.com/@natti.davydova/%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9-%D0%B2-typescript-74c0968cae51) | This article was born from experiments with function overloading in TypeScript. After an introduction about what overloading is in general, I want to talk about the curious nuances I encountered, and how these nuances have changed my understanding of working with overloads |
 
 ## 📥 My In-depth Projects
 ### The purpose of these projects is to explore certain concepts in-depth and, optionally, to share the exploration results as a tutorial or article.
@@ -48,3 +48,11 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 | [Timeline Inspiration](https://github.com/nat-davydova/timeline) | [Live Demo](https://codepen.io/nat-davydova/full/xxKOdvv) | Material UI-compatible timeline inspiration. Can be useful to present a schedule of different events. Users can set the position for each timeline item. Additionally, there is an intricate gradient effect. Fully responsive. |
 | [Tabs Navigation UI](https://github.com/nat-davydova/tab-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/PMJJRM) | Material UI-compatible tabs animation: animates both tab pill changes and tab content changes. |
 | [Gradient Navigation Tiles](https://github.com/nat-davydova/gradient-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/mNOMBV) | Navigation Inspiration with separate tiles sharing a single gradient image. Users can set their own gradient image and direction. The gradient will be recalculated based on the number of navigation tiles present. Fully responsive. |
+
+## 🎀 My Fun Projects
+#### (HTML/CSS)
+
+| Project Repo | Demo | Description |
+| -- | -- | -- |
+| [Animated Easter SVG Icons](https://github.com/nat-davydova/easter-icons-svg) | [Live Demo](https://codepen.io/nat-davydova/full/dyorEMm) | A set of 5 funny Easter svg icons animated with anime.js lib |
+| [Christmas Icons Set](https://github.com/nat-davydova/christmas-icons) | [Live Demo](https://codepen.io/nat-davydova/full/LYENEyL) | A set of 8 cute Christmas icons built exclusively with HTML/CSS (no additional images). They are also 100% scalable: users can adjust the icon sizes as they prefer without any issues |
