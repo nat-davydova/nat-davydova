@@ -50,9 +50,14 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 | [Gradient Navigation Tiles](https://github.com/nat-davydova/gradient-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/mNOMBV) | Navigation Inspiration with separate tiles sharing a single gradient image. Users can set their own gradient image and direction. The gradient will be recalculated based on the number of navigation tiles present. Fully responsive. |
 
 ## 🎀 My Fun Projects
-#### (HTML/CSS)
+#### (JS/HTML/CSS)
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
 | [Animated Easter SVG Icons](https://github.com/nat-davydova/easter-icons-svg) | [Live Demo](https://codepen.io/nat-davydova/full/dyorEMm) | A set of 5 funny Easter svg icons animated with anime.js lib |
 | [Christmas Icons Set](https://github.com/nat-davydova/christmas-icons) | [Live Demo](https://codepen.io/nat-davydova/full/LYENEyL) | A set of 8 cute Christmas icons built exclusively with HTML/CSS (no additional images). They are also 100% scalable: users can adjust the icon sizes as they prefer without any issues |
+
+## 📈 Stats and widgets
+
+![Natali's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat-davydova&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nat-davydova&theme=dark)](https://git.io/streak-stats)
