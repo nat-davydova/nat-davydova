@@ -17,6 +17,13 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+## 📥 My In-depth Projects
+### The purpose of these projects is to explore certain concepts in-depth and, optionally, to share the exploration results as a tutorial or article.
+
+| Project Repo | Demo | Article |  Stack | Description |
+| -- | -- | -- | -- | -- |
+| [smoothScrollTo() Function Concept](https://github.com/nat-davydova/smoothScrollTo-concept) | [Live Demo](https://codepen.io/nat-davydova/full/QWZwOdb/5db409195086b5b1631055fbcb6c94e5) | [Article](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383) |  TS/JS/HTML/CSS | I'm implementing my own vanilla JS alternative to the browser's `scroll-behavior: smooth` feature here. It's useful for cases when you need to combine this functionality with complex scroll JS behavior. Also I've experimented with RAFs here. |
+
 ## 💻 My UI/UX Projects
 ### All the items are realizations of my ideas, fully hand-built by me from the design up to code implementation
 #### (TS/JS/HTML/CSS)
