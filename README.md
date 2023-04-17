@@ -1,10 +1,10 @@
-## Hi there 👋
+## 👋 Hi there 
 
 My name is Natali. I'm a frontend developer with a real passion for building attractive and complex interfaces. I do love creating modern visual effects and have built some popular snippets on CodePen (check them out below).
 
 Additionally, I'm a beginner tech article writer. I'm interested in sharing my experience through helpful articles and tutorials.
 
-### My stack
+## 🛠️ My stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -16,3 +16,11 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+## 💻 My Interfaces Projects
+
+| Project Repo | Demo | Description |
+| -- | -- | -- |
+| [Timeline Inspiration](https://github.com/nat-davydova/timeline) | [Live Demo](https://codepen.io/nat-davydova/full/xxKOdvv) | Material UI-compatible timeline inspiration. Can be useful to present a schedule of different events. Users can set the position for each timeline item. Additionally, there is an intricate gradient effect. Fully responsive. |
+| [Tabs Navigation UI](https://github.com/nat-davydova/tab-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/PMJJRM) | Material UI-compatible tabs animation: animates both tab pill changes and tab content changes. |
+| [Gradient Navigation Tiles](https://github.com/nat-davydova/gradient-navigation) | [Live Demo](https://codepen.io/nat-davydova/full/mNOMBV) | Navigation Inspiration with separate tiles sharing a single gradient image. Users can set their own gradient image and direction. The gradient will be recalculated based on the number of navigation tiles present. Fully responsive. |
