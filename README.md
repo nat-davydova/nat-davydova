@@ -31,7 +31,7 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 | -- | -- | -- | -- | -- |
 | [smoothScrollTo() Function Concept](https://github.com/nat-davydova/smoothScrollTo-concept) | [Live Demo](https://codepen.io/nat-davydova/full/QWZwOdb/5db409195086b5b1631055fbcb6c94e5) | [Article](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383) |  TS/JS/HTML/CSS | I'm implementing my own vanilla JS alternative to the browser's `scroll-behavior: smooth` feature here. It's useful for cases when you need to combine this functionality with complex scroll JS behavior. Also I've experimented with RAFs here. |
 
-## 💻 My UI/UX Projects
+## 💻 My UI/UX Open-source Projects
 ### All the items are realizations of my ideas, fully hand-built by me from the design up to code implementation
 #### (TS/JS/HTML/CSS)
 
