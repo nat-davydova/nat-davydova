@@ -54,6 +54,7 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
+| [Hallowween Icons Set](https://github.com/nat-davydova/halloween-icons) | [Live Demo](https://codepen.io/nat-davydova/full/zYeRgMq) | A set of 5 cute Halloween icons built exclusively with HTML/CSS (no additional images). They are also 100% scalable: users can adjust the icon sizes as they prefer without any issues |
 | [Animated Easter SVG Icons](https://github.com/nat-davydova/easter-icons-svg) | [Live Demo](https://codepen.io/nat-davydova/full/dyorEMm) | A set of 5 funny Easter svg icons animated with anime.js lib |
 | [Christmas Icons Set](https://github.com/nat-davydova/christmas-icons) | [Live Demo](https://codepen.io/nat-davydova/full/LYENEyL) | A set of 8 cute Christmas icons built exclusively with HTML/CSS (no additional images). They are also 100% scalable: users can adjust the icon sizes as they prefer without any issues |
 
