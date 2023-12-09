@@ -37,6 +37,7 @@ Additionally, I'm a beginner tech article writer. I'm interested in sharing my e
 
 | Project Repo | Demo | Description |
 | -- | -- | -- |
+| [Progress Bars Collection](https://github.com/nat-davydova/progress-bars-collection) | [Live Demo](https://codepen.io/nat-davydova/full/qBgvVbQ) | A collection of 4 single-element Progress Bars built with HTML/CSS/TS (with a separate JS version if needed). Fully responsive.|
 | [Timeline Slider Concept](https://github.com/nat-davydova/timeline-slider-concept) | [Live Demo](https://codepen.io/nat-davydova/full/ExewJBV) | Nice and slick timeline-like slider with gradient icons and gradient shadows. Here I've experimented with gradients and CSS Custom Properties. Fully responsive.|
 | [Direction Aware Hover Effect](https://github.com/nat-davydova/direction-aware-hover) | [Live Demo](https://codepen.io/nat-davydova/full/YzvMNYO) | Smooth direction aware hover effect for better UI/UX. Inspired by old jQuery libs with similar effects. I've tried to reproduce it but my way, without any code references. Fully responsive.|
 | [Notifications Collection](https://github.com/nat-davydova/notifications-collection) | [Live Demo](https://codepen.io/nat-davydova/full/QWQvJjB) | A set of 4 HTML/CSS notification concepts (success/warning/danger). I've built them to share with junior frontend developers to encourage them to use notifications in their pet projects for better UI/UX. Inspired by some Dribbble shots. Fully responsive. |
